@@ -1,15 +1,13 @@
 package com.leetcode.shuxue;
 
-import java.math.BigInteger;
-
 /**
- * ·´×ªÕûÊı-ÊıÑ§
+ * æ•´æ•°åè½¬
  * @author xw
  * 2018\9\8
  */
 public class ReverseInteger {
 	/**
-	 * Õâ¸ö·½·¨ÊÇ´íÎóµÄ£¬Ã»ÓĞÑéÖ¤Òç³ö
+	 * æ•´æ•°åè½¬ï¼ˆæœªè€ƒè™‘åè½¬ä¹‹åè¶…å‡ºèŒƒå›´ï¼‰
 	 * @param x
 	 * @return
 	 */
@@ -56,7 +54,7 @@ public class ReverseInteger {
 		}
 		
 	/**
-	 * ÕıÈ··½·¨
+	 * å®˜æ–¹ç­”æ¡ˆ
 	 * @param x
 	 * @return
 	 */
